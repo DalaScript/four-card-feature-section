@@ -16,7 +16,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 - [Author](#author)
   - [Connect with Me](#Connect-with-Me)
   - [Coding Profiles](#Coding-Profiles)
-  - [Professional Links](#Professional-Links)
 
 ## Overview
 
@@ -33,7 +32,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/DalaScript/four-card-feature-section)
-- [Live Site URL](https://dalascript.github.io/four-card-feature-section/)
+- [Live Site URL](https://DalaScript.github.io/four-card-feature-section/)
 
 ## My process
 
@@ -42,6 +41,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Grid
 - Mobile-first workflow
 - bem - [Block Element Modifier](https://getbem.com/introduction/)
 - scss - [Sassy Cascading Style Sheets](https://sass-lang.com/documentation/at-rules/control/for/)
@@ -96,15 +96,10 @@ First I want to finish the javascript course I'm taking on freecodecamp, I'm als
 
 - [Instagram](https://www.instagram.com/DalaScript)
 - [YouTube](https://www.youtube.com/@DalaScript)
-- [TikTok](https://www.tiktok.com/@Dalascript)
+- [TikTok](https://www.tiktok.com/@CodeWithDala)
 
 ### Coding Profiles
 
 - [freeCodeCamp](https://www.freecodecamp.org/DalaScript)
 - [FrontendMentor](https://www.frontendmentor.io/profile/DalaScript)
 - [GitHub](https://github.com/DalaScript)
-
-### Professional Links
-
-- [LinkedIn](https://www.linkedin.com/in/nikadalalishvili/)
-- [UpWork](https://www.upwork.com/freelancers/~01fcf99c6c9609988e)
