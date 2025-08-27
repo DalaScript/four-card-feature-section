@@ -55,11 +55,11 @@ Users should be able to:
 
 ### 🔙 Previous Challenge
 
-  - Product Preview Card Component | *Challenge * → [View Repository](https://github.com/DalaScript/product-preview-card-component)
+  - Product Preview Card Component | *Challenge 5* → [View Repository](https://github.com/DalaScript/product-preview-card-component)
 
 ### 🔜 Next Challenge
 
-  - Faq Accordion | *Challenge * → [View Repository](https://github.com/DalaScript/faq-accordion)
+  - Faq Accordion | *Challenge 7* → [View Repository](https://github.com/DalaScript/faq-accordion)
 
 ---
 
